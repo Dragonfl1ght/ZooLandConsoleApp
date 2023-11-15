@@ -1,0 +1,4 @@
+Species Wolf  name Jacob  legs 4 dietary_regime carnivour color gray   habitat Europe
+Species Bear  name Grillz legs 4 dietary_regime omnivour  color brown  habitat Europe
+Species Fox   name Kurama legs 4 dietary_regime carnivour color orange habitat Europe
+Species Mouse name Mikki  legs 4 dietary_regime herbivore color gray   habitat Europe
